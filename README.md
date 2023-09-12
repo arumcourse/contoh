@@ -1,5 +1,11 @@
 # Judul : Pelatihan membuat landing page
 
+## Peserta
+- Jaisy 
+- Bayu
+- Abd Rohim
+- Mochammad Irfan
+
 ## Latihan membuat repository
 - Create REpository
 - Tambahkan README.md
